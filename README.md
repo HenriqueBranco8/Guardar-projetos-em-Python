@@ -1,2 +1,2 @@
 # Guardar projetos em Python
-Primeiro repositório 
+Primeiro repositório Git e GitHub
